@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: jetty-ant-6.1.16.jar jetty-plus-6.1.16.jar jetty-naming-6.
+ 1.16.jar jetty-6.1.16.jar servlet-api-2.5.jar jetty-util-6.1.16.jar s
+ pring-web-4.0.3.BUILD-SNAPSHOT.jar log4j-1.2.15.jar commons-logging-1
+ .1.1.jar spring-context-4.0.3.BUILD-SNAPSHOT.jar spring-beans-4.0.3.B
+ UILD-SNAPSHOT.jar spring-core-4.0.3.BUILD-SNAPSHOT.jar gwt-servlet.ja
+ r
+

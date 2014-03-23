@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-web-4.0.3.BUILD-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../spring-src2/jar/spring-web-4.0.3.BUILD-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

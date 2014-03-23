@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/test/jetty-ant-6.1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/jetty-plus-6.1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/jetty-naming-6.1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/jetty-6.1.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/servlet-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/test/jetty-util-6.1.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
