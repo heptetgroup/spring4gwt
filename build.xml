@@ -51,12 +51,8 @@
 
 	<target name="core" depends="clean,jar" />
 
-	<target name="examples">
-		<ant antfile="examples/simplerpc/build.xml" target="all" inheritall="false" />
-		<ant antfile="examples/injection/build.xml" target="all" inheritall="false" />
-	</target>
 
-	<target name="all" depends="core,examples" />
+	<target name="all" depends="core" />
 
 	<target name="jetty">
 		<jetty tempDirectory="build/jetty-temp">
