@@ -4,7 +4,7 @@
   <groupId>us.heptet</groupId>
   <artifactId>spring4gwt</artifactId>
   <packaging>jar</packaging>
-  <version>1.01-SNAPSHOT</version>
+  <version>1.02-SNAPSHOT</version>
   <name>spring4gwt</name>
   <organization>
     <name>Heptet</name>
