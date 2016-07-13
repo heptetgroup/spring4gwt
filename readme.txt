@@ -9,3 +9,5 @@ and server. It is licensed under the Apache License Version 2.0
 For project information, including build instructions, see:
 
 https://github.com/heptetgroup/spring4gwt
+
+This Project is a bit in flux. There are build files from the prior ant build that aren't used with the maven build. Sorry for the mess!
