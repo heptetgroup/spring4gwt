@@ -8,4 +8,4 @@ and server. It is licensed under the Apache License Version 2.0
 
 For project information, including build instructions, see:
 
-http://code.google.com/p/spring4gwt
+https://github.com/heptetgroup/spring4gwt
